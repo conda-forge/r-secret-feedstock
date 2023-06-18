@@ -1,11 +1,11 @@
-About r-secret
-==============
+About r-secret-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-secret-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/gaborcsardi/secret
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-secret-feedstock/blob/main/LICENSE.txt)
 
 Summary: Allow sharing sensitive information, for example passwords, 'API' keys, etc., in R packages, using public key cryptography.
 
